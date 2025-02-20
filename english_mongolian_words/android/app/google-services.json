@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247890995762",
+    "project_id": "english-b3eaf",
+    "storage_bucket": "english-b3eaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247890995762:android:1fc07d6cd61c9f19292a2b",
+        "android_client_info": {
+          "package_name": "com.example.english_mongolian_words"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIa_uLcS-IX9wuI2b5WbgfwTVvm2k9KS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
